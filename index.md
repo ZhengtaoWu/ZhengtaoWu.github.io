@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm a college student from [South China University of Technology](https://www.scut.edu.cn/) major in biomedical engineering. My second year of college starts in September, 2022. 
+I'm a college student from [South China University of Technology](https://www.scut.edu.cn/) major in biomedical engineering. My second year of college starts in September, 2022. I'm very interested in photography
 
 ## Gallery (update from time to time)
 
@@ -21,5 +21,3 @@ I'm a college student from [South China University of Technology](https://www.sc
   * Email: zt-wu@outlook.com
   * QQ: 1127560895
   * [Instagram](https://www.instagram.com/zhengtao_wu/)
-
-![Timer](https://shoroukaziz.github.io/notion_widgets/greetings-date-clock.html)
