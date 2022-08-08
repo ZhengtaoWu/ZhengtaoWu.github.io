@@ -1,7 +1,7 @@
 # Personal Website of Zhengtao Wu
 
 Glad to meet you here. I created this website in order to let people better know me. And I will share some daily things on this website.
-![gramma](/docs/assets/L9980422.jpg)
+<img src="/docs/assets/image/L9980422.jpg" alt="hi" class="inline"/>
 
 ## Basic info
 
