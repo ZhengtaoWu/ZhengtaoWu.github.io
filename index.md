@@ -4,7 +4,7 @@
 
 I'm a college student from [South China University of Technology](https://www.scut.edu.cn/) major in biomedical engineering. My second year of college starts in September, 2022. I'm very interested in photography
 
-## Gallery (update from time to time)
+## Gallery (Last update on 8 August, 2022)
 
 ### Leica X2
 
@@ -14,7 +14,6 @@ I'm a college student from [South China University of Technology](https://www.sc
 
 ### Nikon Z5 with 24-50mm f4-6.3
 
-## Photos collections
 
 ## Contact me
 
