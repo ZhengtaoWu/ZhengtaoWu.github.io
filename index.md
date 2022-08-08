@@ -4,10 +4,10 @@ Glad to meet you here. I created this website in order to let people better know
 
 ## Basic info
 
-  >-Full name: Zhengtao Wu(伍政韬)
+  >**Full name**: Zhengtao Wu(伍政韬)
   >
-  >-Nationality: Chinese
+  >**Nationality**: Chinese
   >
-  >-Sex: Male
+  >**Sex**: Male
   >
-  >-Education: South China University of Technology(2021-now)
+  >**Education**: South China University of Technology(2021-now)
