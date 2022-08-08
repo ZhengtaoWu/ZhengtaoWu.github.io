@@ -22,3 +22,7 @@
   * Email: zt-wu@outlook.com
   * QQ: 1127560895
   * <a href="https://www.instagram.com/zhengtao_wu/">Instagram
+
+##### Visitor Count <!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=7977462&style=0001&nbdigits=6&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>
