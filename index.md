@@ -1,17 +1,8 @@
 # Personal Website of Zhengtao Wu
 
-Glad to meet you here. I created this website in order to let people better know me. And I will share some daily things on this website.
-<img src="/docs/assets/image/L9980422.jpg" alt="hi" class="inline"/>
+## About me
 
-## Basic info
-
-  **Full name**: Zhengtao Wu(伍政韬)
-  
-  **Nationality**: Chinese
-  
-  **Sex**: Male
-  
-  **Education**: South China University of Technology(2021-now)
+I'm a college student from South China University of Technology major in biomedical engineering. My second year of college starts in September, 2022. 
 
 ## Contact me
 
