@@ -1,7 +1,7 @@
 # Personal Website of Zhengtao Wu
 
 Glad to meet you here. I created this website in order to let people better know me. And I will share some daily things on this website.
-[gramma](ZhengtaoWu/ZhengtaoWu.github.io/assets/L9980422.JPG)
+[gramma](ZhengtaoWu/ZhengtaoWu.github.io/blob/main/assets/L9980422.JPG)
 
 ## Basic info
 
