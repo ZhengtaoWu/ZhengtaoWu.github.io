@@ -13,4 +13,4 @@ I'm a college student from [South China University of Technology](https://www.sc
 
   * **Email**: zt-wu@outlook.com
   * **QQ**: 1127560895
-  * **[Instagram]**(https://www.instagram.com/zhengtao_wu/)
+  * [**Instagram**](https://www.instagram.com/zhengtao_wu/)
