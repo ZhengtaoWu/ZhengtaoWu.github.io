@@ -26,7 +26,7 @@ I'm a college student from [South China University of Technology](https://www.sc
 * Physis experiment
 * (To be added...)
 
-## Gallery (Last update on August 8, 2022)
+## Gallery (Last updated on August 8, 2022)
 >### Leica X2
 >
 >### Nikon Z5 with 24-50mm f4-6.3
