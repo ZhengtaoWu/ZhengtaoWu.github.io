@@ -4,7 +4,7 @@
 
 I'm a college student from South China University of Technology major in biomedical engineering. My second year of college starts in September, 2022. 
 
-CV: [photo](L9980422.JPG)
+CV: ![photo](L9980422.JPG)
 
 ## Contact me
 
