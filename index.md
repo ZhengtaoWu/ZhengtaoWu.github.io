@@ -2,12 +2,13 @@
 
 ## About me
 
-I'm a college student from South China University of Technology major in biomedical engineering. My second year of college starts in September, 2022. 
+I'm a college student from [South China University of Technology](https://www.scut.edu.cn/) major in biomedical engineering. My second year of college starts in September, 2022. 
 
 ## Gallery (update from time to time)
-![Gramma](L9980422.JPG)(/p)
 
-![Deliver Guys](L9980417.JPG)(/p)
+![Gramma](L9980422.JPG)
+
+![Deliver Guys](L9980417.JPG)
 
 ## Photos collections
 
