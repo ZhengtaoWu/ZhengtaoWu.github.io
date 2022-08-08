@@ -14,6 +14,6 @@ Glad to meet you here. I created this website in order to let people better know
 
 ## Contact me
 
-  * Email: zt-wu@ooutlook.com
+  * Email: zt-wu@outlook.com
   * QQ: 1127560895
   * [Instagram](www.baidu.com)
