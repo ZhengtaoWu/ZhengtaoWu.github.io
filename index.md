@@ -3,7 +3,7 @@
 ## About me
 
 I'm a college student from South China University of Technology major in biomedical engineering. My second year of college starts in September, 2022. 
-[photo]
+[photo](L9980422.jpg)
 
 ## Contact me
 
