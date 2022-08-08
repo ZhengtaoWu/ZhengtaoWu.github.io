@@ -24,7 +24,7 @@ I'm a college student from [South China University of Technology](https://www.sc
 * Organic chemistry
 * General physis
 * Physis experiment
-(To be added...)
+* (To be added...)
 
 ## Gallery (Last update on August 8, 2022)
 >### Leica X2
