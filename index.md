@@ -4,16 +4,16 @@ Glad to meet you here. I created this website in order to let people better know
 
 ## Basic info
 
-  >**Full name**: Zhengtao Wu(伍政韬)
-  >
-  >**Nationality**: Chinese
-  >
-  >**Sex**: Male
-  >
-  >**Education**: South China University of Technology(2021-now)
+  **Full name**: Zhengtao Wu(伍政韬)
+  
+  **Nationality**: Chinese
+  
+  **Sex**: Male
+  
+  **Education**: South China University of Technology(2021-now)
 
 ## Contact me
 
   * Email: zt-wu@outlook.com
   * QQ: 1127560895
-  * [Instagram]("www.baidu.com")
+  * [Instagram](www.baidu.com)
