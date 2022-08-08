@@ -16,13 +16,13 @@ I'm a college student from [South China University of Technology](https://www.sc
 ### Second term of the first year
 * Calculus
 * Probability and statistic
-* General physis
+* General physics
 * Technical drawing
 * Design and exploration in biomedical engineering
 
 ### First term of the second year
 * Organic chemistry
-* General physis
+* General physics
 * Physis experiment
 * (To be added...)
 
