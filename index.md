@@ -1,5 +1,3 @@
-# Homepage of Zhengtao Wu(伍政韬)
-
 <font color="grey" size=1>Updated on August 9, 2022</font>
 ---------------------------------------------------------------------
 
