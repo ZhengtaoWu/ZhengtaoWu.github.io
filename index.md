@@ -6,6 +6,8 @@ I'm a college student from [South China University of Technology](https://www.sc
 
 ## Lectures
 
+- [ ] First year
+
 ### First term of the first year
 * Calculus
 * Linear algebra
