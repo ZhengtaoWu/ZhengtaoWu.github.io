@@ -1,10 +1,10 @@
 # Homepage of Zhengtao Wu
 
-<font color="grey" size=3>last updated on</font>
+<font color="grey" size=1>last updated on</font>
 
 ## About me
 
-<font face="黑体">I'm a college student from [South China University of Technology](https://www.scut.edu.cn/) major in biomedical engineering. My second year of college starts in September, 2022. I'm very interested in photography, football and video games. Welcome to email me any kind of related things.</font>
+I'm a college student from [South China University of Technology](https://www.scut.edu.cn/) major in biomedical engineering. My second year of college starts in September, 2022. I'm very interested in photography, football and video games. Welcome to email me any kind of related things.
 
 ## Lectures
 
