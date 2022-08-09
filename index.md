@@ -13,23 +13,23 @@ I'm a college student from [South China University of Technology] major in biome
 ## Lectures
 
 **First term of the first year**  
->Calculus  
->Linear algebra  
->Python programme design  
->Inorganic and analytical chemistry  
->Inorganic and analytical chemistry experiment  
+1. Calculus  
+2. Linear algebra  
+3. Python programme design  
+4. Inorganic and analytical chemistry  
+5. Inorganic and analytical chemistry experiment  
 
 **Second term of the first year**  
-Calculus  
-Probability and statistic  
-General physics  
-Technical drawing  
-Design and exploration in biomedical engineering  
+1. Calculus  
+2. Probability and statistic  
+3. General physics  
+4. Technical drawing  
+5. Design and exploration in biomedical engineering  
 
 **First term of the second year**  
-Organic chemistry  
-General physics  
-Physis experiment  
+1. Organic chemistry  
+2. General physics  
+3. Physis experiment  
 (To be added...)  
 
 ## Gallery (Last updated on August 8, 2022)
