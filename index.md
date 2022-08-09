@@ -5,10 +5,9 @@
 
 ## About me
 
-I'm a college student from [South China University of Technology] major in biomedical engineering. My second year of college starts in September, 2022. I'm very interested in photography, football and video games. Welcome to email me any kind of related things.[google][]
+I'm a college student from [South China University of Technology] major in biomedical engineering. My second year of college starts in September, 2022. I'm very interested in photography, football and video games. Welcome to email me any kind of related things.
 
 [South China University of Technology]: https://www.scut.edu.cn/ "Only avalible in China including HongKong SAR"
-[google]: http://google.com/ "google"
 
 ## Lectures
 
