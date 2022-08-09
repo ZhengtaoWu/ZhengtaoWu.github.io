@@ -13,7 +13,7 @@ I'm a college student from [South China University of Technology] major in biome
 ## Lectures
 
 **First term of the first year**  
->_Calculus_  
+>Calculus  
 >Linear algebra  
 >Python programme design  
 >Inorganic and analytical chemistry  
