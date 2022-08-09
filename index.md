@@ -1,7 +1,7 @@
 # Homepage of Zhengtao Wu
 
 <font color="grey" size=1>Updated on August 9, 2022</font>
----
+---------------------------------------------------------------------
 
 ## About me
 
@@ -30,9 +30,9 @@ I'm a college student from [South China University of Technology](https://www.sc
 * (To be added...)
 
 ## Gallery (Last updated on August 8, 2022)
->### Leica X2
->
->### Nikon Z5 with 24-50mm f4-6.3
+
+* ### Leica X2
+* ### Nikon Z5 with 24-50mm f4-6.3
 
 ## Contact me
 
