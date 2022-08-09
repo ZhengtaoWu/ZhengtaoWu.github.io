@@ -1,4 +1,4 @@
-# Personal Website of Zhengtao Wu
+# Homepage of Zhengtao Wu
 
 ## About me
 
