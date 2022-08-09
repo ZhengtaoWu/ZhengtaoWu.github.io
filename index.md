@@ -36,6 +36,6 @@ I'm a college student from [South China University of Technology](https://www.sc
 
 ## Contact me
 
-  * **Email**: zt-wu@outlook.com
+  * **Email**: <zt-wu@outlook.com>
   * [**Instagram**](https://www.instagram.com/zhengtao_wu/)
   * [**Bilibili**](https://space.bilibili.com/480155106/?spm_id_from=333.999.0.0)
