@@ -35,4 +35,4 @@ I'm a college student from [South China University of Technology](https://www.sc
 
   * **Email**: zt-wu@outlook.com
   * [**Instagram**](https://www.instagram.com/zhengtao_wu/)
-  * <a href="https://space.bilibili.com/480155106/?spm_id_from=333.999.0.0" target="_blank">bilibili</a>
+  * [**Bilibili**](https://space.bilibili.com/480155106/?spm_id_from=333.999.0.0)
