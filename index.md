@@ -1,4 +1,4 @@
-# Homepage of Zhengtao Wu
+# Homepage of Zhengtao Wu(伍政韬)
 
 <font color="grey" size=1>Updated on August 9, 2022</font>
 ---------------------------------------------------------------------
@@ -34,7 +34,7 @@ I'm a college student from [South China University of Technology](https://www.sc
 * ### [Leica X2](Leica.md)
 * ### [Nikon Z5 with 24-50mm f4-6.3](Nikon.md)
 
-## Contact me
+## Reach me
 
   * **Email**: <zt-wu@outlook.com>
   * [**Instagram**](https://www.instagram.com/zhengtao_wu/)
