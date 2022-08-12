@@ -1,6 +1,6 @@
 # Homepage of Zhengtao Wu  
 
-<font color="grey" size=1>Updated on August 9, 2022</font>
+<font color="grey" size=1>Updated on August 12, 2022</font>
 
 ---------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 I'm a college student from [South China University of Technology] major in biomedical engineering. My second year of college starts in September, 2022. I'm very interested in photography, football and video games. Welcome to email me any kind of related things.
 
-[Zheng](Zhengtao Wu.pdf)
+[Zhengtao Wu's CV](Zhengtao Wu.pdf "Only Chinese version avalible")
 
 [South China University of Technology]: https://www.scut.edu.cn/
 
