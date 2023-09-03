@@ -1,6 +1,6 @@
 # Homepage of Zhengtao Wu  
 
-<font color="grey" size=1>Updated on August 12, 2022</font>
+<font color="grey" size=1>Updated on Sep 3, 2023</font>
 
 ---------------------------------------------------------------------
 
@@ -9,7 +9,6 @@
 I'm a college student from [South China University of Technology] major in biomedical engineering. My second year of college starts in September, 2022. I'm very interested in photography, football and video games. Welcome to email me any kind of related things.
 
 [Zhengtao Wu's CV](Zhengtao Wu.pdf "Only Chinese version avalible")
-
 [South China University of Technology]: https://www.scut.edu.cn/
 
 ## Lectures
@@ -39,7 +38,7 @@ I'm a college student from [South China University of Technology] major in biome
 * ### [Leica X2](Leica.md)
 * ### [Nikon Z5 with 24-50mm f4-6.3](Nikon.md)
 
-## Reach me
+## How to reach me
 
   * **Email**: <zt-wu@outlook.com>
   * [**Instagram**](https://www.instagram.com/zhengtao_wu/)
