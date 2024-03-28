@@ -1,15 +1,14 @@
 # Homepage of Zhengtao Wu  
 
-<font color="grey" size=1>Updated on Sep 3, 2023</font>
+<font color="grey" size=1>Updated on Mar 28, 2024</font>
 
 ---------------------------------------------------------------------
 
 ## About me
 
-I'm a college student from [South China University of Technology] major in biomedical engineering. My second year of college starts in September, 2022. I'm very interested in photography, football and video games. Welcome to email me any kind of related things.
+I'm a college student from [South China University of Technology](www.scut.edu.cn) major in Biomedical Engineering. Now I am a grade 3 student. I'm very interested in photography, football and video games. Welcome to email me any kind of related things.
 
-[Zhengtao Wu's CV](Zhengtao Wu.pdf "Only Chinese version avalible")
-[South China University of Technology]: https://www.scut.edu.cn/
+Here's my academic [cv](cv.pdf)
 
 ## Lectures
 
@@ -40,5 +39,5 @@ I'm a college student from [South China University of Technology] major in biome
 
 ## How to reach me
 
-  * **Email**: <zt-wu@outlook.com>
+  * **Email**: <202164030361@mail.scut.edu.cn>
   * [**Instagram**](https://www.instagram.com/zhengtao_wu/)
