@@ -6,7 +6,7 @@
 
 ## Personal profile
 
-I'm a college student from [South China University of Technology](www.scut.edu.cn) major in Biomedical Engineering. Now I am a grade 3 student. I'm very interested in photography, football and video games. Welcome to email me any kind of related things.
+I'm a undergraduate student from [South China University of Technology](www.scut.edu.cn) major in Biomedical Engineering. Now I am a grade 3 student. I'm very interested in photography, football and video games. Welcome to email me any kind of related things.
 
 Here's my academic [cv](cv.pdf, "Last update on Mar 28, 2024")
 
