@@ -4,13 +4,17 @@
 
 ---------------------------------------------------------------------
 
-## About me
+## Personal profile
 
 I'm a college student from [South China University of Technology](www.scut.edu.cn) major in Biomedical Engineering. Now I am a grade 3 student. I'm very interested in photography, football and video games. Welcome to email me any kind of related things.
 
-Here's my academic [cv](cv.pdf)
+Here's my academic [cv](cv.pdf, "Last update on Mar 28, 2024")
 
-## Lectures
+## Research interest
+
+Cell Surface Engineering, Tissue Engineering
+
+## Lectures Taken
 
 **First term of the first year**  
 1. Calculus  
