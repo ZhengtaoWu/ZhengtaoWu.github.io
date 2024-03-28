@@ -36,11 +36,6 @@ Cell Surface Engineering, Tissue Engineering
 3. Physis experiment  
 (To be added...)  
 
-## Gallery (Last updated on August 8, 2022)
-
-* ### [Leica X2](Leica.md)
-* ### [Nikon Z5 with 24-50mm f4-6.3](Nikon.md)
-
 ## How to reach me
 
   * **Email**: <202164030361@mail.scut.edu.cn>
